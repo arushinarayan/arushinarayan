@@ -4,7 +4,7 @@
 <br>
 I'm currently doing B.Tech in Biotechnology from VIT, Vellore in India 👩🏽‍🎓
 <br>
-I enjoy coding and am currently learning software development, including web development and app development 💻
+I enjoy coding and am currently learning software development, including web and app development 💻
 <br>
 I'm also good with research, content creation, writing, editing and marketing,✨
 <br>
