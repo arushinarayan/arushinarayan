@@ -1,6 +1,6 @@
 # ![Header](https://user-images.githubusercontent.com/67413254/120096759-e2b22b00-c14a-11eb-98c5-790ad12dfe64.png)
 
-# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey!👋🏽
 <br>
 I'm currently doing B.Tech in Biotechnology from VIT, Vellore in India 👩🏽‍🎓
 <br>
